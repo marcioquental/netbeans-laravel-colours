@@ -4,7 +4,7 @@ netbeans-laravel-colours
 Colour scheme based on laravel documentation
 
 # Installation
-Zip the contents inside the theme folder and import the zip file in netbeans. Go to **Netbeans Preferences** -> **Fonts & Colors** -> **Import** then select the zip file that you've created.
+Click [here](https://github.com/eldotz/netbeans-laravel-colours/releases/download/V1.0/netbeans-laravel-colours.zip) and import the zip file in Netbeans. Go to **Netbeans Preferences** -> **Fonts & Colors** -> **Import** then select the zip file that you've downloaded.
 
 # Supported Languages
 * PHP ([View image](https://github.com/eldotz/netbeans-laravel-colours/blob/master/screenshots/php.png))
