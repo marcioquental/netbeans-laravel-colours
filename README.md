@@ -19,5 +19,5 @@ Click [here](https://github.com/eldotz/netbeans-laravel-colours/releases/downloa
 * Added color on indent guide lines
 * Added color on text limit line
 
-** Version 1.0
+## Version 1.0
 Download [here](https://github.com/eldotz/netbeans-laravel-colours/releases/download/V1.0/netbeans-laravel-colours.zip)
